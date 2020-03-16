@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.boardKolom{
+  min-height: 50vh;
+  max-height: 80vh;
+  margin-left: 24px;
+  background-color: #f5f5f5 ;
+  max-width: 25%;
+}
+
+.colName {
+  color: #212121;
+  text-align: center;
+}
+
+.board{
+  
+}
